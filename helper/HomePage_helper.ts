@@ -1,6 +1,6 @@
 import {Page, expect} from "@playwright/test"
 import {BasePage} from "../pages/BasePage"
-import { HomePage } from "../pages/homepage"  
+import { HomePage } from "../pages/HomePage"  
 
 export class HomePageHelper{
     homepage: HomePage;
